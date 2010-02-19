@@ -5,7 +5,7 @@ Geokit consists of a Gem ([geokit-gem](http://github.com/andre/geokit-gem/tree/m
 #### 1. Install the Rails plugin:
 
     cd [YOUR_RAILS_APP_ROOT]
-    script/plugin install git://github.com/andre/geokit-rails.git
+    script/plugin install git://github.com/ubilabs/geokit-rails.git
     
 #### 2. Add this line to your environment.rb 
 (inside the Rails::Initializer.run do |config| block)
